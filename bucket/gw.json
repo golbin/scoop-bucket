@@ -4,6 +4,6 @@
   "homepage": "https://github.com/golbin/gw",
   "license": "MIT",
   "url": "https://github.com/golbin/gw/releases/download/v0.1.0/gw-v0.1.0-x86_64-pc-windows-msvc.zip",
-  "hash": "b8b9f79664648519167336398b690eed38fc1021cb5175bebc4cca2fcb67de1d",
+  "hash": "9bf5faaa9f20a65ec53160366d6d7172b604950c0cfecce3420863b543b3e2a9",
   "bin": "gw.exe"
 }
