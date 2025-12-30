@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "description": "git worktree helper",
+  "homepage": "https://github.com/golbin/gw",
+  "license": "MIT",
+  "url": "https://github.com/golbin/gw/releases/download/v0.1.0/gw-v0.1.0-x86_64-pc-windows-msvc.zip",
+  "hash": "2913826f13ae8dd0a299ec979d3a117a507f46ba88ac04c6a222c66076bd1d09",
+  "bin": "gw.exe"
+}
